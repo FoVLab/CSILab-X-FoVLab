@@ -1,2 +1,2 @@
 FoVLab X CSILab
-Student Paper Seminar Archive
+📄Student Paper Seminar Archive
