@@ -1,17 +1,25 @@
 <div align="center">
-<h1>FoVLab X CSILab </h1>
-<img src="./GSPS_logo.png" alt="GSPS Logo" width="400"/>
-<div>    
-  <a href='http://fovlab.cau.ac.kr/' target='_blank'>FoVLab</a><sup></sup>&nbsp&nbsp&nbsp&nbsp;
-  <a href='https://www.jinhwipark.com/' target='_blank'>CSILab</a><sup></sup>
+  <img width="400" height="250" alt="GSPS_logo" src="https://github.com/user-attachments/assets/61157f16-2b13-43ec-8b6b-5de9f20fac29" />
 </div>
-<div align="center">
-<h3>
-    📝This repository is the Graduate Student Paper Seminar Archive
-</h3>
-<br />
 
---- 
-<h4>
-  ▶ Topic : Trend (Recent papers are preferred, but Feel Free)
-<h4>
+<div align="center">
+  <h1><i>📚 CSILab × FoVLab</i></h1>
+
+  <div>    
+    🔗 <a href='http://fovlab.cau.ac.kr/' target='_blank'>FoVLab</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    🔗 <a href='https://www.jinhwipark.com/' target='_blank'>CSILab</a>
+  </div>
+
+  <br />
+
+  <h3>
+    📝 <em>This repository is the archive for</em><br/>
+    <strong><em>Graduate Student Paper Seminar (GSPS)</em></strong>
+  </h3>
+
+  <hr style="width:60%; border: 1px solid #ccc;" />
+
+  <h4>
+    ▶ <strong>Topic</strong> : 📈 <i>Trend</i> (Recent papers are preferred, but Feel Free!)
+  </h4>
+</div>
