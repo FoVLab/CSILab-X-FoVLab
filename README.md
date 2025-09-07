@@ -4,13 +4,12 @@
 
 <div align="center">
   <h1><i>📚 CSILab × FoVLab</i></h1>
-
+  
   <div>    
     🔗 <a href='https://www.jinhwipark.com/' target='_blank'>CSILab</a>&nbsp;&nbsp;&nbsp;&nbsp;
     🔗 <a href='http://fovlab.cau.ac.kr/' target='_blank'>FoVLab</a>
   </div>
 
-  <br />
 
   <h3>
     📝 <em>This repository is the archive for</em><br/>
@@ -22,4 +21,11 @@
   <h4>
     ▶ <strong>Topic</strong> : 📈 <i>Trend</i> (Recent papers are preferred, but Feel Free!)
   </h4>
+</div>
+
+---
+<div align="center">
+  📍 <em>Graduate Student Paper Seminar (GSPS)</em><br/>
+  <em>Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM)</em><br/>
+  <em>Chung-Ang University (CAU), Seoul, Korea 🇰🇷</em>
 </div>
