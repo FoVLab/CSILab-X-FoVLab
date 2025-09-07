@@ -6,8 +6,8 @@
   <h1><i>📚 CSILab × FoVLab</i></h1>
 
   <div>    
-    🔗 <a href='http://fovlab.cau.ac.kr/' target='_blank'>FoVLab</a>&nbsp;&nbsp;&nbsp;&nbsp;
-    🔗 <a href='https://www.jinhwipark.com/' target='_blank'>CSILab</a>
+    🔗 <a href='https://www.jinhwipark.com/' target='_blank'>CSILab</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    🔗 <a href='http://fovlab.cau.ac.kr/' target='_blank'>FoVLab</a>
   </div>
 
   <br />
