@@ -25,7 +25,7 @@
 
 ---
 <div align="center">
-  📍 <em>Graduate Student Paper Seminar (GSPS)</em><br/>
+  📍 <em>Graduate Student Paper Seminar (GSPS),</em><br/>
   <em>Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM)</em><br/>
   <em>Chung-Ang University (CAU), Seoul, Korea 🇰🇷</em>
 </div>
