@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="400" height="250" alt="GSPS_logo" src="https://github.com/user-attachments/assets/61157f16-2b13-43ec-8b6b-5de9f20fac29" />
+
+  <img width="584" height="258" alt="GSPS_logo_누끼" src="https://github.com/user-attachments/assets/4e67b0f0-f2f7-4a86-9b72-cc768ae6857d" />
 </div>
 
 <div align="center">
